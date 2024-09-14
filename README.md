@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Quin!</h1>
 <h3 align="center">A passionate frontend developer from the Philippines.</h3>
 
-- 🌱 I’m currently learning **Full-stack Development and Linguistics**
+- 🌱 I’m currently learning **Full-stack Development and Data Structures & Algorithms.**
 
-- ⚡ Fun fact **Talkative**
+- ⚡ Fun fact **Talkative and you can reach me out below to the link of my socials!**
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.com/users/751747538859851796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/751747538859851796" height="30" width="40" /></a>
