@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Quin!</h1>
 <h3 align="center">A passionate frontend developer from the Philippines.</h3>
 
-- 🌱 I’m currently learning **Full-stack Development, Database, and Data Structures & Algorithms.**
+- 📑 Leanning:**
+- 📕 **Full-stack Development,
+-  Database,
+-  and Data Structures & Algorithms.**
 
 <hr>
 
