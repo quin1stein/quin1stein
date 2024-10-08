@@ -7,7 +7,7 @@
 - 🔠 Data Structures & Algorithms
 - 📔 Python for Academic Activities
 <hr>
-- 🔭 I’m currently working on **Peruse & Partake & Dormie**
+- 🔭 I’m currently working on **Peruse & Partake and Dormie**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@drenoken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@drenoken" height="30" width="40" /></a>
