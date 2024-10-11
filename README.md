@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Peruse & Partake and Dormie**
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: block;">
-  <a href="https://www.codewars.com/users/kinDreno">CodeWars</a>
+  <a href="https://www.codewars.com/users/kinDreno">CodeWars</a> <br>
   <a href="https://discord.com/users/751747538859851796">Discord</a>
 </p>
 
