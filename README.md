@@ -32,10 +32,8 @@
 ###
 
 <h4 align="left">Connect with me!</h4>
-<br>
 <ul>
-  <li><a href="https://discord.com/users/751747538859851796"></a>Discord</li>
-  <li><a href="https://www.codewars.com/users/kinDreno"></a>CodeWars</li>
-  <li><a href="https://icodethis.com/thisIsKin"></a>iCodeThis</li>
+  <li><b><a href="https://discord.com/users/751747538859851796">Discord</a></b></li>
+  <li><b><a href="https://www.codewars.com/users/kinDreno">CodeWars</a></b></li>
+  <li><b><a href="https://icodethis.com/thisIsKin">iCodeThis</a></b></li>
 </ul>
-###
