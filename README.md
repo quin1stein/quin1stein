@@ -2,11 +2,6 @@
 
 ###
 
-<p align="left">I embarked on learning C++ in 2022, and started Software Development in the same year.</p>
-
-###
-<hr>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -22,7 +17,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
@@ -32,4 +29,13 @@
   <img src="https://streak-stats.demolab.com?user=kinDreno&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+###
+
+<h4 align="left">Connect with me!</h4>
+<br>
+<ul>
+  <li><a href="https://discord.com/users/751747538859851796"></a>Discord</li>
+  <li><a href="https://www.codewars.com/users/kinDreno"></a>CodeWars</li>
+  <li><a href="https://icodethis.com/thisIsKin"></a>iCodeThis</li>
+</ul>
 ###
