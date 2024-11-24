@@ -41,5 +41,5 @@
 <ul>
   <li><b><a href="https://discord.com/users/751747538859851796">Discord</a></b></li>
   <li><b><a href="https://www.codewars.com/users/kinDreno">CodeWars</a></b></li>
-  <li><b><a href="https://leetcode.com/u/kinSD/">iCodeThis</a></b></li>
+  <li><b><a href="https://leetcode.com/u/kinSD/">LeetCode</a></b></li>
 </ul>
