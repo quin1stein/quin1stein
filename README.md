@@ -1,4 +1,4 @@
-<h4 align="left">Hi! Quin here, fascinated in Software Development and System Scripting.</h4>
+<h4 align="left">Hi! Quin here, fascinated in Software Development and Development Operations.</h4>
 
 ###
 
