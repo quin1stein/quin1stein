@@ -38,11 +38,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
 </div>
