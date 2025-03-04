@@ -82,6 +82,6 @@
 <h4 align="left">Connect with me:</h4>
 <ul>
   <li><b><a href="https://discord.com/users/751747538859851796">Discord</a></b></li>
-  <li><b><a href="https://www.codewars.com/users/quin1stein">CodeWars</a></b></li>
+  <li><b><a href="https://www.codewars.com/users/quinni">CodeWars</a></b></li>
   <li><b><a href="https://leetcode.com/u/kinSD/">LeetCode</a></b></li>
 </ul>
