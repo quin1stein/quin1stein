@@ -63,21 +63,13 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quin1stein/quin1stein/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quin1stein/quin1stein/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quin1stein/quin1stein/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h4 align="left">Connect with me:</h4>
 <ul>
+  <li>Gmail: <a href="suedadken@gmail.com">suedadken@gmail.com</a></li>
+  <hr />
+  <br />
   <li><b><a href="https://www.linkedin.com/in/alquin-suedad/">LinkedIn</a></b></li>
   <li><b><a href="https://discord.com/users/751747538859851796">Discord</a></b></li>
   <li><b><a href="https://www.codewars.com/users/quinni">CodeWars</a></b></li>
   <li><b><a href="https://leetcode.com/u/kinSD/">LeetCode</a></b></li>
-  <hr />
-  <br />
-  <li>Gmail: <a href="suedadken@gmail.com">suedadken@gmail.com</a></li>
 </ul>
