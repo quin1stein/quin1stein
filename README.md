@@ -59,7 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
 <h4 style="text-align: center;">And many others...</h4>
-###
 
 <h4 align="left">Connect with me:</h4>
 <ul>
