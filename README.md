@@ -35,16 +35,25 @@
 
 ###
 
+<hr />
 <h4 align="center">Connect with me:</h4>
 
-<div style="display: flex; justify-content: space-around; align-items: center; height: 50px; width: 100%;">
-  <ul style="display: block; height: 100%;">
-    <li><a href="mailto:suedadken@gmail.com">Gmail</a></li>
-    <li><a href="https://www.linkedin.com/in/alquin-suedad/">Linked In</a></li>
-      </ul>
-  <ul style="display: block; height: 100%;">
-    <li><a href="https://www.codewars.com/users/quinni">CodeWars</a></li>
-    <li><a href="https://discord.com/users/751747538859851796">Discord</a></li>
-  <li><a href="https://leetcode.com/u/kinSD/">LeetCode</a></li>
-  </ul>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:suedadken@gmail.com">Gmail</a><br/>
+      <a href="https://www.linkedin.com/in/alquin-suedad/">LinkedIn</a>
+    </td>
+    <td align="center">
+      <a href="https://www.codewars.com/users/quinni">CodeWars</a><br/>
+      <a href="https://discord.com/users/751747538859851796">Discord</a><br/>
+      <a href="https://leetcode.com/u/kinSD/">LeetCode</a>
+    </td>
+  </tr>
+</table>
+
 </div>
+
+
