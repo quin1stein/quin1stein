@@ -35,19 +35,16 @@
 
 ###
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="center">Connect with me:</h4>
 
-<table>
-  <tr>
-    <td><a href="mailto:suedadken@gmail.com">Gmail</a></td>
-    <td><a href="https://discord.com/users/751747538859851796">Discord</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.linkedin.com/in/alquin-suedad/">LinkedIn</a></td>
-    <td><a href="https://www.codewars.com/users/quinni">CodeWars</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="https://leetcode.com/u/kinSD/">LeetCode</a></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-around; align-items: center; height: 50px; width: 100%;">
+  <ul style="display: block; height: 100%;">
+    <li><a href="mailto:suedadken@gmail.com">Gmail</a></li>
+    <li><a href="https://www.linkedin.com/in/alquin-suedad/">Linked In</a></li>
+      </ul>
+  <ul style="display: block; height: 100%;">
+    <li><a href="https://www.codewars.com/users/quinni">CodeWars</a></li>
+    <li><a href="https://discord.com/users/751747538859851796">Discord</a></li>
+  <li><a href="https://leetcode.com/u/kinSD/">LeetCode</a></li>
+  </ul>
+</div>
