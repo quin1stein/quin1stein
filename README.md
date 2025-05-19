@@ -49,7 +49,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <ul>
-  <li>Gmail: <a href="mailto:suedadken@gmail.com">Gmail</a></li>
+  <li><a href="mailto:suedadken@gmail.com">Gmail</a></li>
   <li><b><a href="https://www.linkedin.com/in/alquin-suedad/">LinkedIn</a></b></li>
   <hr />
   <li><b><a href="https://discord.com/users/751747538859851796">Discord</a></b></li>
