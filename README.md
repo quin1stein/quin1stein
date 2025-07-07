@@ -66,7 +66,6 @@
   <li><a href="mailto:suedadken@gmail.com">Gmail</a></li>
   <li><b><a href="https://www.linkedin.com/in/alquin-suedad/">LinkedIn</a></b></li>
   <hr />
-  <li><b><a href="https://discord.com/users/751747538859851796">Discord</a></b></li>
   <li><b><a href="https://www.codewars.com/users/quinni">CodeWars</a></b></li>
   <li><b><a href="https://leetcode.com/u/kinSD/">LeetCode</a></b></li>
 </ul>
